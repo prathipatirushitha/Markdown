@@ -47,8 +47,53 @@ ___Welcome___
 * R-programming
   + introduction to r programming
   + what is programming
+  
 # accesing links
 
 + [pace college](https://pace.ac.in)
 
+
+# ordered list 
+
+1. Django framework
+2. flask Framework
+10. cheer py
+100. bottle
+
+# unordered list
+
++ selinium
+
++ seaborn
+
+*. numpy
+
+
+# Backtick
+
+`Git and Github`
+
+
+# Block quotes
+ 
+> Welcome
+
+> hru 
+
+> fine
+
+\*Git and Github\*
+
+
+
+# Table representation
+
+| s.no | languages | inventors |
+|------|-----------|-----------|
+| 1    | python    | guido van |
+| 2    | java      | james     |
+| 3    | c         | dennis    |
+
+
+# emojis
 
